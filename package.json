@@ -1,0 +1,22 @@
+{
+  "name": "uitesting",
+  "version": "1.0.0",
+  "description": "UI Testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisaburrow/UITesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisaburrow/UITesting/issues"
+  },
+  "homepage": "https://github.com/lisaburrow/UITesting#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
